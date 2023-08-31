@@ -1,0 +1,8 @@
+# デフォルトの無視対象ファイル
+/shelf/
+/workspace.xml
+# Rider の無視対象ファイル
+/contentModel.xml
+/.idea.SpecialField.iml
+/projectSettingsUpdater.xml
+/modules.xml
